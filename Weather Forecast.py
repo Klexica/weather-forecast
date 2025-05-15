@@ -2,7 +2,6 @@ import requests
 import json
 import sys
 from datetime import datetime, timedelta
-import tkinter
 
 # All APIs came from open meteo
 
